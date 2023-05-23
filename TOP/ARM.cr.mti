@@ -1,0 +1,89 @@
+{E:/University/Term_6/Az memari/ARM/TOP/src/ARM.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/ARM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ARM
+
+Top level modules:
+	ARM
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/EXE_Stage_Reg.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/EXE_Stage_Reg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXE_Stage_Reg
+
+Top level modules:
+	EXE_Stage_Reg
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/WB_Stage.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/WB_Stage.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WB_Stage
+
+Top level modules:
+	WB_Stage
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/EXE_Stage.v} {1 {vlog -work work {+incdir+E:/University/Term_6/Az memari/ARM/TOP/src} {E:/University/Term_6/Az memari/ARM/TOP/src/EXE_Stage.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXE_Stage
+-- Compiling module ALU
+-- Compiling module val2gen
+-- Compiling module StatusRegister
+
+Top level modules:
+	EXE_Stage
+	StatusRegister
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/Instructions.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/Instructions.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/ID_Stage_Reg.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/ID_Stage_Reg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_Stage_Reg
+
+Top level modules:
+	ID_Stage_Reg
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/MEM_Stage_Reg.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/MEM_Stage_Reg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_Stage_Reg
+
+Top level modules:
+	MEM_Stage_Reg
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/IF_Stage_Reg.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/IF_Stage_Reg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_Stage_Reg
+
+Top level modules:
+	IF_Stage_Reg
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/MEM_Stage.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/MEM_Stage.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_Stage
+-- Compiling module Memory
+
+Top level modules:
+	MEM_Stage
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/IF_Stage.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/IF_Stage.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_Stage
+-- Compiling module PC_Reg
+-- Compiling module PC_Adder
+-- Compiling module Instruction_Mem
+
+Top level modules:
+	IF_Stage
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/Testbbench.v} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/Testbbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}} {E:/University/Term_6/Az memari/ARM/TOP/src/TOP.V} {1 {vlog -work work {E:/University/Term_6/Az memari/ARM/TOP/src/TOP.V}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TOP
+
+Top level modules:
+	TOP
+
+} {} {}}

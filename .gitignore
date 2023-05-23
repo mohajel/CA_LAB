@@ -1,0 +1,6 @@
+TOP/work/
+TOP/db/
+TOP/incremental_db/
+TOP/output_files/
+.idea/
+.vscode/
